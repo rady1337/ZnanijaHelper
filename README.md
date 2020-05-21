@@ -5,7 +5,7 @@
 # Установка
 
 * Установить расширение для браузера:
-[Расширение]("https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld") (кликабельно)
+[расширение](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld) (кликабельно)
 * Открыть любой ответ на сайте [znanija.com](https://znanija.com/task/27204449) (кликабельно)
 * В правом верхнем углу нажать на лого расширения
 * Нажать "Добавить"
